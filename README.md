@@ -1,14 +1,14 @@
 This is an example README.md
 
-David Evans / dse4@pitt.edu
+Kolu Jarboi / koj1@pitt.edu
 ==================
 
 Three Facts About Me
 ---
 
-*   I was born in Oakland, just a few blocks from the Cathedral
-*   I have two dogs.
-*   I can't stand when people whistle in public.
+*   I was born in Liberia, which is in west Africa.
+*   I have two sisters and zero brothers.
+*   I can't stand when people don't use their common sense.
 
 ---
 
