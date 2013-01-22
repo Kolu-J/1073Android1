@@ -7,7 +7,7 @@ Three Facts About Me
 ---
 
 *   I was born in Liberia, which is in west Africa.
-*   I have two sisters and zero brothers.
+*   I have no pets.
 *   I can't stand when people don't use their common sense.
 
 ---
